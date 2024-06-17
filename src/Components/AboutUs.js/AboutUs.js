@@ -54,7 +54,7 @@ function AboutUs() {
                 <div className="container-1 AboutContainer">
                     <div className="AboutUs_carousel">
                         <h1>Team Members:</h1>
-                        <div className="AboutUs_carousel__face"><span>Group-26</span></div>
+                        <div className="AboutUs_carousel__face"><span>Group-02</span></div>
                         <div className="AboutUs_carousel__face"></div>
                         <div className="AboutUs_carousel__face"></div>
                         <div className="AboutUs_carousel__face"></div>
@@ -65,11 +65,11 @@ function AboutUs() {
 
                 <div className="names-div">
                     <div className="names">
-                        <span>P.SATYA KARTHIK,S20200010158</span><br />
-                        <span>K.VENKAT SUBHASH,S20200010081</span><br />
-                        <span>P.Sai Sharan,S20200010174</span><br />
-                        <span>DHANUSH ARIVAPPAGARI,S2020001022</span><br />
-                        <span>RAKESH BODAVULA,S20200010039</span><br />
+                        <span>Abhijeet Singh, 2001660100002</span><br />
+                        <span>Ashvani Gurjar,2001660100016</span><br />
+                        <span>Vishal Gupta,2001660100065</span><br />
+                        <span>Ankit Baghel,2001660100009</span><br />
+                        <span>Prashant Singh,2001660100041</span><br />
                     </div>
                 </div>
             </div>
